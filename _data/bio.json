@@ -11,8 +11,7 @@
     "profiles": [
       { "network": "github", "username": "kparkok", "url": "http://github.com/kparkok" },
       { "network": "linkedin", "username": "Karina Park-Okuna", "url": "http://linkedin.com/in/kparkokuna" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+
     ]
   },
   "interests": [
