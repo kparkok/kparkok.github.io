@@ -16,10 +16,6 @@
   },
   "interests": [
     { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
   ],
   "skills": [
     {
@@ -28,7 +24,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub"]
+      "keywords": [ "MacOS", "Git/GitHub"]
     }
   ],
   "education": [
