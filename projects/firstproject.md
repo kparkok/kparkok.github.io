@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: IMG_0302.jpeg
+image: img/IMG_0302.jpeg
 title: "First Project"
 date: 2024
 published: true
