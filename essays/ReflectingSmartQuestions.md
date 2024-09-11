@@ -4,7 +4,7 @@ type: essay
 title: "Reflect on Typescript"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-011
-published: True
+published: false
 labels:
   - ICS 314
 ---
