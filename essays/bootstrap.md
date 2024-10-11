@@ -12,7 +12,7 @@ labels:
 
 ## UI Frameworks: Bootstrap
 
-	When I first started learning about web development with HTML and CSS, it seemed pretty straightforward. I understood the elements of a basic webpage and was able to style it how I envisioned it. Then Bootstrap 5 was introduced and for a little while things were a bit more complicated. Bootstrap 5 is a UI framework and at first it was hard incorporating the elements of Bootstrap into my work when I had just gotten the basics of HTML and CSS but after spending some time learning, I believe that learning Bootstrap 5 is worth the time.
+When I first started learning about web development with HTML and CSS, it seemed pretty straightforward. I understood the elements of a basic webpage and was able to style it how I envisioned it. Then Bootstrap 5 was introduced and for a little while things were a bit more complicated. Bootstrap 5 is a UI framework and at first it was hard incorporating the elements of Bootstrap into my work when I had just gotten the basics of HTML and CSS but after spending some time learning, I believe that learning Bootstrap 5 is worth the time.
 
 So what is Bootstrap? Bootstrap is an open-source UI framework created and designed to simplify the process of building responsible web applications. It provides a collection of pre-designed components that are all customizable and can be easily integrated into a website using its simple class names. What’s cool about Bootstrap is that it comes with built-in CSS and JavaScript which makes it easy to incorporate without having to write extensive code. As a beginner, Bootstrap’s ready-made tools significantly sped up my learning process and my understanding.
 
