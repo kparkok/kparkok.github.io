@@ -19,3 +19,6 @@ Design patterns provide a foundation for solving recurring problems with efficie
 Design patterns, like recipes, empower developers to tackle complex challenges with confidence. They give us a structured way to approach problems while leaving room for creativity and adaptation. Just like a chef might experiment with his recipe’s ingredients or techniques, a developer can tailor design patterns to suit the unique needs of a project.
 
 So, in an interview when asked “what are design patterns?”, I will say they are my recipes for software design, guiding me to efficient solutions and elegant work. And when asked “what design patterns have you used in your own code?” I can say that in the baking world, I am a cake decorator. In software, decorators allow you to layer additional functionality onto objects dynamically. In my work I have used design patterns as seen in my work such as dynamically adding styles to HTML elements.
+
+<img width="100px" class="rounded float-start pe-4" src="../img/igniting/design.jpg">
+
