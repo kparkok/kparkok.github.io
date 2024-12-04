@@ -20,5 +20,5 @@ Design patterns, like recipes, empower developers to tackle complex challenges w
 
 So, in an interview when asked “what are design patterns?”, I will say they are my recipes for software design, guiding me to efficient solutions and elegant work. And when asked “what design patterns have you used in your own code?” I can say that in the baking world, I am a cake decorator. In software, decorators allow you to layer additional functionality onto objects dynamically. In my work I have used design patterns as seen in my work such as dynamically adding styles to HTML elements.
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/design.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/igniting/Design.jpg">
 
