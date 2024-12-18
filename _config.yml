@@ -28,5 +28,13 @@ exclude:
 include:
   - .nojekyll
   - _data
+  - essays  # Include essays folder in the build
+
+# Set default layout for essays
+defaults:
+  - scope:
+      path: "essays"
+    values:
+      layout: essay
 plugins:
   - jekyll-gist
