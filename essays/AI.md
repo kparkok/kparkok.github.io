@@ -10,10 +10,10 @@ labels:
 ---
 
 
-##I. Introduction
+I. Introduction
 Artificial Intelligence has become an integral part of modern education, offering innovative tools and methodologies to enhance learning. In the field of Software Engineering, AI aids in problem-solving, code generation, and debugging, which are crucial for mastering the discipline. During my semester in ICS 314, I engaged with AI tools such as ChatGPT, Claude, and Co-Pilot to facilitate my understanding and application of software engineering. This essay reflects my personal experiences using AI throughout the elements of the class, analyzing its impact on my learning journey.
 
-##II. Personal Experience with AI
+II. Personal Experience with AI
 1. Experience WODs
 E18 was the introduction to experiencing functional programming. This is where I started to learn how to use AI as a navigation tool within my work. I used ChatGPT and Claude to gain a better understanding of the requirements and help me break down the exercises into smaller more manageable sections. I asked AI questions to check my understanding and methods such as “Is my implementation of .filter() following functional programming?”. The responses I received worked as a guide in my work, providing clear answers and explanations which helped me better understand functional programming concepts. AI in this usage was moderately helpful and was an efficient way to check my understandings.
 I used ChatGPT to better understand the requirements of E18 by asking, “How do I implement a function using underscore.js to filter data?” The response provided clear examples and explanations, which helped me get started, although it required modifications to align with the specific WOD requirements. AI was moderately helpful, saving time but not fully meeting the task's nuances.
@@ -44,19 +44,19 @@ I used AI to debug ESLint errors by pasting the error message and asking, “How
 14. Other Uses in ICS 314 Not Listed
 AI was used as a resource throughout this class for sure. I know I explored using AI for brainstorming project ideas by asking, “Suggest innovative app ideas for students,” which sparked creativity during the ideation phase. I think that AI is a great resource and guide for brainstorming.
 
-##III. Impact on Learning and Understanding
+III. Impact on Learning and Understanding
 AI has profoundly influenced my learning by providing immediate feedback, clarifying complex concepts, and accelerating development tasks. However, it occasionally hindered deeper comprehension when I over-relied on it for solutions. I think that it took a lot of control to be able to not turn to AI at first error.
 
-##IV. Practical Applications
+IV. Practical Applications
 Outside ICS 314, I used AI to integrate Google Maps API into a Node.js project. AI’s guidance on configuring the API and handling location data streamlined the implementation process, showcasing its utility in real-world scenarios.
 
-##V. Challenges and Opportunities
+V. Challenges and Opportunities
 Challenges included AI-generated inaccuracies and the risk of dependency, throughout my use of AI, I have run into many inaccuracies and errors. I think that it's a good reminder that although AI is a powerful resource, it shouldn't always be the first or last. Opportunities lie in leveraging AI for advanced debugging, personalized learning, and collaborative development.
 
-##VI. Comparative Analysis
+VI. Comparative Analysis
 Traditional teaching emphasizes foundational understanding, while AI accelerates practical application. I believe that combining both approaches optimizes engagement, retention, and skill acquisition.
 ##VII. Future Considerations
 AI’s role in education will expand with advancements in natural language processing and adaptive learning technologies. However, ensuring ethical use and mitigating over-reliance will be critical for its success.
 
-##VIII. Conclusion
+VIII. Conclusion
 Reflecting on my experiences of AI throughout this past semester and in class, AI has been a powerful tool, enhancing efficiency and comprehension. To optimize its integration, future courses should balance AI-driven and traditional methodologies, one thing that helped me the most is refraining from AI during my in-class WODS, that way I was able to focus on my independent problem-solving skills which are very important to my future as a software engineer.
