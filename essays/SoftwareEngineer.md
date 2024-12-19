@@ -18,7 +18,7 @@ ICS 314 from UH Manoa was my introduction to functional programming, user interf
 Functional programming is a programming paradigm that treats computation as the evaluation of mathematical functions, emphasizing immutability and avoiding changing state or mutable data. To simplify functional programming, functional programming uses functions and expressions to build programs.The idea behind it is to keep work simple and predictable, what you implement gives the same result every time, without changing anything else in the process. This class introduced me to the core concepts of functional programming such as higher-order functions and recursions, promoting a clean, predictable and testable code. 
 
 A functional programming file may look as follows:
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/functional.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/igniting/functional.png">
 
 Using functional programming, functions break down your work and then are called for output or results. The understanding of functional programming has helped me to reshape how I think about solving problems. Instead of focusing on how tasks are done, I now consider what the output should be.
 
