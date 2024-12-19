@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflect on AI"
+title: "What is Typescript?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-04
 published: True
